@@ -1,0 +1,25 @@
+h1{
+    color: red;
+    margin-left: 20px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    font-size: 20px;
+}
+th{
+    font-size: 20px;
+}
+audio{
+    margin: 20px;
+}
+]form{
+    margin: 20px;
+}
+
+.btn{
+    color: green;
+    margin-left: 20px;
+    
+}
